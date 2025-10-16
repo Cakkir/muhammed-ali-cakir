@@ -1,0 +1,9 @@
+public class Main {}
+    public static void main(String[] args) {
+    /*1. CPU execution time alone does not objectively indicate algorithm efficiency, as it is highly dependent on environmental factors.
+    2. once time
+    3.a-O(N)
+        b-O(n2)
+        c-O(log(n))
+        */
+        }
